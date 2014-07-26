@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<actions>
+  <insert group-id="ReSharper" position="last">
+    <action-group id="resharper-knockoutjs" text="resharper-knockoutjs">
+      <action id="resharper-knockoutjs.About" text="About resharper-knockoutjs"/>
+      <!-- to break up elements use <separator/> -->
+    </action-group>
+  </insert>
+</actions>
